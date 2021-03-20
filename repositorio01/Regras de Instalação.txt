@@ -1,0 +1,7 @@
+O caminho onde a pasta será descompactada não deve ter espaços em branco no nome, isso gerará erro em tempo de execução finalizando o sistema.
+
+Ex:
+
+C:\Nova Pasta  (não vai rodar o sistema)
+
+C:\Nova_Pasta (OK! Funciona)
