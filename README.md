@@ -1,2 +1,2 @@
-# mypage
-Página pessoal com perfil e portfólio de projetos de sistemas e apps em geral
+# VBScripts
+Repositórios de scripts devenvolvidos em laboratório na Faculdade em modo de atividades
